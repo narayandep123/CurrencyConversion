@@ -1,0 +1,22 @@
+14-Mar-2024 12:09:34 : Exchange rate: 74.00
+14-Mar-2024 12:09:34 : Final Amount: 740.00
+14-Mar-2024 12:15:04 : Exchange rate: 74.00
+14-Mar-2024 12:15:04 : Final Amount: 740.00
+14-Mar-2024 12:15:27 : Exchange rate: 74.00
+14-Mar-2024 12:15:31 : Final Amount: 740.00
+14-Mar-2024 12:20:43 : Exchange rate: 74.00
+14-Mar-2024 12:20:43 : Final Amount: 740.00
+14-Mar-2024 12:34:01 : sourceCurrency or targetCurrency or amount cannnot be null
+14-Mar-2024 12:34:01 : Exchange rate: 74.00
+14-Mar-2024 12:34:01 : Final Amount: 740.00
+14-Mar-2024 12:35:19 : sourceCurrency or targetCurrency or amount cannnot be null
+14-Mar-2024 12:36:05 : Sequence contains no elements
+14-Mar-2024 12:39:50 : Exchange rates not available
+14-Mar-2024 12:40:31 : Exchange rates not available
+14-Mar-2024 12:40:31 : sourceCurrency or targetCurrency or amount cannnot be null
+14-Mar-2024 12:40:31 : Exchange rate: 74.00
+14-Mar-2024 12:40:31 : Final Amount: 740.00
+14-Mar-2024 12:41:20 : Exchange rate: 74.00
+14-Mar-2024 12:41:20 : Final Amount: 740.00
+14-Mar-2024 12:41:20 : sourceCurrency or targetCurrency or amount cannnot be null
+14-Mar-2024 12:41:20 : Exchange rates not available

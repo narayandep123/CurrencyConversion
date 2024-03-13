@@ -1,0 +1,14 @@
+13-Mar-2024 10:23:40 : Exchange rate: 74.00
+13-Mar-2024 10:23:50 : Final Amount: 740.00
+13-Mar-2024 10:28:45 : Exchange rate: 74.00
+13-Mar-2024 10:28:56 : New Exchange rates found in environment
+13-Mar-2024 10:29:49 : Input string was not in a correct format.
+13-Mar-2024 10:30:45 : Exchange rate: 74.00
+13-Mar-2024 10:30:50 : New Exchange rates found in environment
+13-Mar-2024 10:34:54 : Exchange rate: 74.00
+13-Mar-2024 10:34:57 : New Exchange rates found in environment
+13-Mar-2024 10:38:15 : Exchange rate: 74.00
+13-Mar-2024 10:38:22 : New Exchange rates found in environment
+13-Mar-2024 10:38:30 : OverRideRate: 810.00
+13-Mar-2024 11:08:19 : sourceCurrency or targetCurrency cannnot be null
+13-Mar-2024 11:18:16 : sourceCurrency or targetCurrency or amount cannnot be null
