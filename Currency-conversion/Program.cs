@@ -1,3 +1,7 @@
+using Currency_conversion.Controllers;
+using Currency_conversion.Interface;
+using Currency_conversion.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +10,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<ICurrencyRepository, CurrencyRepository>();
 
 var app = builder.Build();
 

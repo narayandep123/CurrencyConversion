@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{6A80B2EA-5387-4F61-ACCD-F1B34077A33D}|TestCurrencyConversion\\TestCurrencyConversion.csproj|solutionrelative:testcurrencyconversion\\currencytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45EFFE08-FADC-4756-B6E1-51CC5D58FBF0}|Currency-conversion\\Currency-conversion.csproj|d:\\currency-conversion\\currency-conversion\\repository\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EFFE08-FADC-4756-B6E1-51CC5D58FBF0}|Currency-conversion\\Currency-conversion.csproj|solutionrelative:currency-conversion\\repository\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45EFFE08-FADC-4756-B6E1-51CC5D58FBF0}|Currency-conversion\\Currency-conversion.csproj|d:\\currency-conversion\\currency-conversion\\controllers\\currencyconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45EFFE08-FADC-4756-B6E1-51CC5D58FBF0}|Currency-conversion\\Currency-conversion.csproj|solutionrelative:currency-conversion\\controllers\\currencyconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFFE08-FADC-4756-B6E1-51CC5D58FBF0}|Currency-conversion\\Currency-conversion.csproj|d:\\currency-conversion\\currency-conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EFFE08-FADC-4756-B6E1-51CC5D58FBF0}|Currency-conversion\\Currency-conversion.csproj|solutionrelative:currency-conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45EFFE08-FADC-4756-B6E1-51CC5D58FBF0}|Currency-conversion\\Currency-conversion.csproj|d:\\currency-conversion\\currency-conversion\\exchangerates.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyConversion.cs",
+              "DocumentMoniker": "D:\\Currency-conversion\\Currency-conversion\\Controllers\\CurrencyConversion.cs",
+              "RelativeDocumentMoniker": "Currency-conversion\\Controllers\\CurrencyConversion.cs",
+              "ToolTip": "D:\\Currency-conversion\\Currency-conversion\\Controllers\\CurrencyConversion.cs",
+              "RelativeToolTip": "Currency-conversion\\Controllers\\CurrencyConversion.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAArwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:57:06.015Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +53,40 @@
               "RelativeDocumentMoniker": "TestCurrencyConversion\\CurrencyTest.cs",
               "ToolTip": "D:\\Currency-conversion\\TestCurrencyConversion\\CurrencyTest.cs",
               "RelativeToolTip": "TestCurrencyConversion\\CurrencyTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwC4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T17:55:26.617Z",
+              "WhenOpened": "2024-03-14T06:57:54.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "CurrencyRepository.cs",
+              "DocumentMoniker": "D:\\Currency-conversion\\Currency-conversion\\Repository\\CurrencyRepository.cs",
+              "RelativeDocumentMoniker": "Currency-conversion\\Repository\\CurrencyRepository.cs",
+              "ToolTip": "D:\\Currency-conversion\\Currency-conversion\\Repository\\CurrencyRepository.cs",
+              "RelativeToolTip": "Currency-conversion\\Repository\\CurrencyRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwFYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:40:37.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Currency-conversion\\Currency-conversion\\Program.cs",
+              "RelativeDocumentMoniker": "Currency-conversion\\Program.cs",
+              "ToolTip": "D:\\Currency-conversion\\Currency-conversion\\Program.cs",
+              "RelativeToolTip": "Currency-conversion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:09:40.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "exchangeRates.json",
               "DocumentMoniker": "D:\\Currency-conversion\\Currency-conversion\\exchangeRates.json",
               "RelativeDocumentMoniker": "Currency-conversion\\exchangeRates.json",
@@ -48,19 +95,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-13T15:44:32.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CurrencyConversion.cs",
-              "DocumentMoniker": "D:\\Currency-conversion\\Currency-conversion\\Controllers\\CurrencyConversion.cs",
-              "RelativeDocumentMoniker": "Currency-conversion\\Controllers\\CurrencyConversion.cs",
-              "ToolTip": "D:\\Currency-conversion\\Currency-conversion\\Controllers\\CurrencyConversion.cs",
-              "RelativeToolTip": "Currency-conversion\\Controllers\\CurrencyConversion.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAArwHYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:52:41.106Z",
               "EditorCaption": ""
             }
           ]

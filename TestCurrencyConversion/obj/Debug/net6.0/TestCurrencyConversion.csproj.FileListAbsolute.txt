@@ -112,3 +112,4 @@ D:\Currency-conversion\TestCurrencyConversion\obj\Debug\net6.0\TestCurrencyConve
 D:\Currency-conversion\TestCurrencyConversion\obj\Debug\net6.0\ref\TestCurrencyConversion.dll
 D:\Currency-conversion\TestCurrencyConversion\bin\Debug\net6.0\Castle.Core.dll
 D:\Currency-conversion\TestCurrencyConversion\bin\Debug\net6.0\Moq.dll
+D:\Currency-conversion\TestCurrencyConversion\obj\Debug\net6.0\TestCurrencyConversion.sourcelink.json

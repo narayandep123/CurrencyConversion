@@ -32,3 +32,4 @@ D:\Currency-conversion\Currency-conversion\obj\Debug\net6.0\Currency-conversion.
 D:\Currency-conversion\Currency-conversion\obj\Debug\net6.0\ref\Currency-conversion.dll
 D:\Currency-conversion\Currency-conversion\bin\Debug\net6.0\exchangeRates.json
 D:\Currency-conversion\Currency-conversion\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Currency-conversion\Currency-conversion\obj\Debug\net6.0\Currency-conversion.sourcelink.json
