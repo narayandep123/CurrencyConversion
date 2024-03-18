@@ -1,7 +1,5 @@
-using Currency_conversion.Controllers;
-using Currency_conversion.Interface;
+
 using Currency_conversion.Repository;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
 

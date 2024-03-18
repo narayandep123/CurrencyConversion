@@ -1,0 +1,8 @@
+14-Mar-2024 11:52:12 : Exchange rate: 74.00
+14-Mar-2024 11:52:12 : Final Amount: 740.00
+14-Mar-2024 12:10:57 : Exchange rate: 74.00
+14-Mar-2024 12:10:57 : Final Amount: 740.00
+14-Mar-2024 12:28:13 : Exchange rate: 74.00
+14-Mar-2024 12:28:13 : Final Amount: 740.00
+14-Mar-2024 12:48:51 : Exchange rate: 74.00
+14-Mar-2024 12:48:51 : Final Amount: 740.00
